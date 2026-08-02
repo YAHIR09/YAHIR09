@@ -1,8 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola,%20soy%20Yahir%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20Software%20%7C%20Web%20%7C%20IA&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:0a0e1a,100:05070d&height=280&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C9CDB&center=true&vCenter=true&width=650&lines=Desarrollo+de+Software+a+Medida;Integraci%C3%B3n+de+Soluciones+con+IA;Backend+%26+APIs+RESTful;Infraestructura+%26+Mantenimiento+de+Hardware;Fundador+en+CTEC+%E2%80%A2+Core+Technology+%26+Development" alt="Typing SVG" />
+<br/>
+
+<img src="./assets/ctec-logo.png" width="140" alt="CTEC Logo" style="filter: drop-shadow(0 0 18px #FF7A00);"/>
+
+<br/><br/>
+
+<h1 align="center" style="font-size:42px;">
+  <b>HOLA, SOY YAHIR</b>
+</h1>
+
+<br/>
+
+<h3 align="center">💻 Desarrollador de Software</h3>
+<h4 align="center">🚀 Fundador de <a href="https://ctec.onrender.com">CTEC</a> — Core Technology & Development</h4>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=FF7A00&center=true&vCenter=true&width=650&lines=Software+a+medida+%7C+Web+%7C+IA;Backend+robusto+%2B+APIs+RESTful;Automatizaci%C3%B3n+con+Inteligencia+Artificial;Infraestructura+%26+Servidores+24%2F7" alt="Typing SVG" />
 
 </div>
 
@@ -10,12 +27,12 @@
 
 ### 🧭 Sobre mí
 
-Soy **Yahir**, desarrollador de software enfocado en construir **soluciones a medida**: desde software de escritorio y puntos de venta, hasta backends robustos, integraciones de IA y despliegues en producción. Actualmente lidero **CTEC (Core Technology & Development)**, donde combino desarrollo, IA e infraestructura para entregar productos completos, de extremo a extremo.
+Soy **Yahir**, desarrollador de software especializado en **soluciones a medida**: software de escritorio, puntos de venta, backends escalables, integraciones de IA y despliegues en producción. Actualmente dirijo **CTEC (Core Technology & Development)**, donde combino desarrollo, inteligencia artificial e infraestructura para entregar productos completos, de extremo a extremo.
 
-- 🔭 Trabajando actualmente en **CTEC** — soluciones de software, web e IA a medida.
-- 🧩 Me apasiona diseñar herramientas prácticas que resuelven problemas reales de negocio.
-- ⚙️ Tan cómodo escribiendo código como configurando el servidor donde corre.
-- 📫 ¿Tienes un proyecto en mente? Hablemos.
+- 🔭 Trabajando actualmente en **[CTEC](https://ctec.onrender.com)** — software, web e IA a medida.
+- 🧩 Diseño herramientas prácticas que resuelven problemas reales de negocio.
+- ⚙️ Igual de cómodo escribiendo código que configurando el servidor donde corre.
+- 📫 ¿Tienes un proyecto en mente? **[Hablemos en CTEC →](https://ctec.onrender.com)**
 
 ---
 
@@ -36,7 +53,7 @@ Soy **Yahir**, desarrollador de software enfocado en construir **soluciones a me
 #### 🌐 Desarrollo Web & Backend
 - Construcción de **APIs RESTful** escalables.
 - Arquitecturas ligeras con **Flask** y **Reflex**.
-- Despliegues automáticos y continuos en **Render**.
+- Despliegue continuo y automático en **Render**.
 
 </td>
 </tr>
@@ -44,7 +61,7 @@ Soy **Yahir**, desarrollador de software enfocado en construir **soluciones a me
 <td width="50%" valign="top">
 
 #### 🤖 Integración de Soluciones con IA
-- Implementación de modelos y herramientas de IA en apps comerciales.
+- Implementación de modelos y herramientas de IA existentes en apps comerciales.
 - Automatización de flujos de trabajo mediante scripts inteligentes.
 - Optimización de procesos con IA aplicada a casos reales.
 
@@ -67,31 +84,31 @@ Soy **Yahir**, desarrollador de software enfocado en construir **soluciones a me
 **Lenguajes & Frameworks**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reflex-6E39CB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-FF7A00?style=for-the-badge&logo=python&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/Reflex-1a1f2e?style=for-the-badge&logo=python&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/CustomTkinter-1a1f2e?style=for-the-badge&logo=python&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/HTML5-FF7A00?style=for-the-badge&logo=html5&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/JavaScript-FF7A00?style=for-the-badge&logo=javascript&logoColor=0d1117" />
 </p>
 
-**Inteligencia Artificial & Backend**
+**IA & Backend**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/APIs%20RESTful-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Integraci%C3%B3n%20de%20IA-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automatizaci%C3%B3n-4B8BBE?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs%20RESTful-0d1117?style=for-the-badge&logo=fastapi&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/Integraci%C3%B3n%20de%20IA-1a1f2e?style=for-the-badge&logo=openai&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/Automatizaci%C3%B3n-0d1117?style=for-the-badge&logo=zapier&logoColor=FF7A00" />
 </p>
 
-**Despliegue, Infraestructura & Servidores**
+**Infraestructura & Servidores**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware%20%26%20Redes-00599C?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FF7A00?style=for-the-badge&logo=linux&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/Git-FF7A00?style=for-the-badge&logo=git&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-1a1f2e?style=for-the-badge&logo=github&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/Hardware%20%26%20Redes-0d1117?style=for-the-badge&logo=cachet&logoColor=FF7A00" />
 </p>
 
 ---
@@ -100,10 +117,12 @@ Soy **Yahir**, desarrollador de software enfocado en construir **soluciones a me
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF7A00&text_color=c9d1d9" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=0d1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" />
 
 </div>
 
@@ -116,24 +135,21 @@ Soy **Yahir**, desarrollador de software enfocado en construir **soluciones a me
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=novapos&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=novapos&hide_border=true&bg_color=0d1117&title_color=FF7A00&text_color=c9d1d9&icon_color=FF7A00" />
 </a>
 
 </div>
 
 ---
 
-### 🔗 Conecta conmigo
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CTEC-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portafolio-2C9CDB?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-</p>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<a href="https://ctec.onrender.com">
+  <img src="https://img.shields.io/badge/CTEC-Core%20Technology%20%26%20Development-FF7A00?style=for-the-badge&logo=vercel&logoColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:0a0e1a,100:05070d&height=120&section=footer" width="100%"/>
 
 </div>
