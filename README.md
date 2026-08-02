@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Software%2C+Web+%26+AI+Developer;Building+Digital+Products;Full-Stack+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Software%2C+Web+%26+AI+Developer;Automation+%26+Backend+Scripts;Building+Custom+Software+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,js,ts,react,nextjs,bun,tailwind,git,vscode,linux,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,flask,js,html,css,git,vscode,linux" />
   </a>
 </p>
 
@@ -12,22 +12,23 @@
 
 ### 🚀 Sobre Mí
 
-* 💻 **Especialidad:** Desarrollo de aplicaciones web, software de escritorio (POS, herramientas locales) y soluciones integradas con herramientas de **IA**.
-* 🛠️ **Enfocado en:** Crear arquitecturas limpias, rendimiento ágil (Stack Bun / Python / Flask) y experiencias de usuario optimizadas.
-* ⚡ **Servidor local & Infraestructura:** Apasionado por el hardware, mantenimiento, redes locales y servidores caseros (Linux, Remote-SSH).
+* 💻 **Especialidad:** Desarrollo de aplicaciones web, software de escritorio local (POS, herramientas de gestión) y soluciones integradas con herramientas de **IA**.
+* ⚡ **Automatizaciones:** Creación e integración de flujos de trabajo automatizados con **n8n**, scripts personalizados y conexión de APIs.
+* 🛠️ **Enfocado en:** Arquitecturas limpias, backend liviano con **Python & Flask** y experiencias de usuario funcionales.
+* ⚙️ **Infraestructura & Mantenimiento:** Apasionado por el hardware, ensamble, diagnóstico de equipos y configuración de servidores locales/remotos (Linux, Remote-SSH).
 
 ---
 
 ### 🛠️ Tech Stack & Herramientas
 
 #### **Backend & Automatización**
-`Python` • `Flask` • `CustomTkinter` • `Reflex` • `REST APIs`
+`Python` • `Flask` • `n8n` • `CustomTkinter` • `Reflex` • `REST APIs`
 
-#### **Frontend & UI**
-`React` • `Next.js` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `HTML5/CSS3`
+#### **Desarrollo Web & UI**
+`JavaScript` • `HTML5` • `CSS3`
 
 #### **Entornos & Herramientas**
-`Bun` • `Git & GitHub` • `Linux` • `VS Code` • `Render`
+`Git & GitHub` • `Linux` • `VS Code` • `Render`
 
 ---
 
