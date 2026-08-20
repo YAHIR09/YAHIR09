@@ -32,10 +32,9 @@
 - 🤝 Abierto a colaborar en proyectos open source y freelance.
 
 
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YAHIR09&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAHIR09&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YAHIR09&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAHIR09&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
