@@ -38,16 +38,5 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YAHIR09&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIR09&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAHIR09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAHIR09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📬 Contacto
-  <a href="https://linkedin.com/in/YAHIR09">
-    <img src="[https://img.shields.io/badge/Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/yahir-sánchez-a7590342b/)" />
-  </a>
-  
