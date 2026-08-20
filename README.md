@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
-
 ## 🧭 Sobre mí
 
 - 🚀 Actualmente trabajando en proyectos de automatización y desarrollo web.
@@ -32,23 +30,13 @@
 - 🤝 Abierto a colaborar en proyectos open source y freelance.
 
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YAHIR09&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIR09&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAHIR09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YAHIR09&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=F78166&point=C9D1D9&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YAHIR09&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-</p>
 
----
+
+
+
+
+
